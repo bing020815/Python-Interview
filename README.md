@@ -7,4 +7,6 @@ Python interview questions
 3. Fibonacci Sequence
 4. Quicksort
 5. Reverse strings/words
-
+   * Reverse strings
+   * Reverse words
+   * Reverse individual words
