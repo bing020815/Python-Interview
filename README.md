@@ -10,3 +10,11 @@ Python interview questions
    * Reverse strings
    * Reverse words
    * Reverse individual words
+6. leetcode_268. Missing 
+7. leetcode_1119. Remove Vowels from a String
+8. leetcode_1480. Running Sum of 1d Array
+9. leetcode_344. Reverse String
+10. leetcode_1047. Remove All Adjacent Duplicates In String
+11. leetcode_811. Subdomain Visit Count
+12. leetcode_1672. RichestCustomer Wealth
+
