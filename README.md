@@ -17,4 +17,6 @@ Python interview questions
 10. leetcode_1047. Remove All Adjacent Duplicates In String
 11. leetcode_811. Subdomain Visit Count
 12. leetcode_1672. RichestCustomer Wealth
+13. leetcode_1431. Kids With the Greatest Number of Candies.ipynb
+14. Codility_Lighted bulbs
 
